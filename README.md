@@ -9,3 +9,5 @@
 - 🔭 I’m currently working on infrastructure and security at my day job.
 - 📫 How to reach me: [this form](https://bit.ly/2K7e76D).
 - 😄 Thoughts: [0xfeed.gitlab.io](https://0xfeed.gitlab.io)
+
+![](https://komarev.com/ghpvc/?username=nitrocode)
