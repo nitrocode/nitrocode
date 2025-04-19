@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm RB. I'm a Cloud Architect and CEO. I work with clients to codify infrastructure (and security) as code. I have expertise in AWS, Kubernetes, Terraform, pipelines, architectural design records. I'd be happy to help solve issues at your company. :)
+I'm RB. I'm a Cloud Architect and CEO of RB Consulting. I work with clients to codify infrastructure (and security) as code. I have expertise in AWS, Kubernetes, Terraform, pipelines, and project management. I'd be happy to help solve issues at your company. :)
 
 Please see my resume for more information.
 
