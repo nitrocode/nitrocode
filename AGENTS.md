@@ -77,6 +77,7 @@ If adding a new link or image, make sure it resolves to a stable URL. Avoid shor
 README.md                  — public GitHub profile page
 AGENTS.md                  — this file; AI agent context and conventions
 CLAUDE.md                  -> AGENTS.md (symlink)
+renovate.json5             — Renovate config; inherits best-practices, pins actions to SHAs
 LICENSE
 .github/
   workflows/
@@ -85,7 +86,19 @@ LICENSE
 
 ---
 
-## What Agents Should Not Do
+## Dependency Management
+
+GitHub Actions are pinned to full commit SHAs (`uses: owner/action@<sha> # vX.Y.Z`). Renovate manages these via `renovate.json5`, which inherits `config:best-practices` and sets `pinDigests: true`.
+
+When adding a new workflow step, pin the action to its SHA and add a version comment. Find the SHA with:
+
+```sh
+gh api repos/<owner>/<repo>/git/ref/tags/<tag> --jq '.object.sha'
+```
+
+---
+
+
 
 - Do not rewrite large portions of `README.md` speculatively — make targeted, minimal changes
 - Do not add sections, stats widgets, or third-party integrations without being asked
