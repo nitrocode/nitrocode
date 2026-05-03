@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+RB+%F0%9F%91%8B;Cloud+Architect+%26+CEO;Infrastructure+as+Code+Evangelist;Turning+complexity+into+clarity+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+RB+%F0%9F%91%8B;Cloud+Architect+%26+CEO;I+turn+infra+into+code;AWS+%7C+Terraform+%7C+Kubernetes+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 [![Profile views](https://komarev.com/ghpvc/?username=nitrocode&style=flat-square&color=00D9FF)](https://github.com/nitrocode)
 [![Resume](https://img.shields.io/badge/Resume-View-blue?style=flat-square&logo=read-the-docs)](https://0xfeed.gitlab.io/resume.html)
@@ -13,14 +13,14 @@
 
 ## 🚀 About Me
 
-I'm **RB** — Cloud Architect & CEO of **RB Consulting**. I help companies tame their infrastructure by codifying it — cloud, security, and everything in between.
+I'm **RB**, Cloud Architect and CEO of **RB Consulting**. I help companies bring their infrastructure under control by treating it as code - cloud, security, pipelines, the works.
 
-- 🏗️ **IaC obsessed** — Terraform, OpenTofu, CDK, Pulumi
-- ☁️ **AWS-native** — multi-account architectures, Landing Zones, FinOps
-- ⚙️ **Platform Engineering** — Kubernetes, GitOps, internal developer platforms
-- 🤖 **AI-augmented workflows** — shipping faster and smarter with LLM-powered pipelines
-- 🔐 **Security as code** — policy enforcement, compliance automation, zero-trust
-- 🧑‍💼 **Leadership** — project management, team building, client advisory
+- 🏗️ **IaC**: Terraform, OpenTofu, CDK, Pulumi
+- ☁️ **AWS**: multi-account architectures, Landing Zones, FinOps
+- ⚙️ **Platform Engineering**: Kubernetes, GitOps, internal developer platforms
+- 🤖 **AI tooling**: using LLMs to ship faster and cut toil
+- 🔐 **Security**: policy enforcement, compliance automation, zero-trust
+- 🧑‍💼 **Leadership**: project management, team building, client advisory
 
 > *"If you touched it twice, it should be code."*
 
@@ -79,7 +79,7 @@ I'm **RB** — Cloud Architect & CEO of **RB Consulting**. I help companies tame
 
 ## 📬 Let's Work Together
 
-Got tangled infrastructure, a security headache, or just want to move faster in the cloud? I'd love to chat.
+Dealing with messy infrastructure, security gaps, or just need to go faster? Reach out.
 
 <div align="center">
 
