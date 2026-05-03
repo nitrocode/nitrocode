@@ -13,16 +13,16 @@
 
 ## 🚀 About Me
 
-I'm **RB**, Cloud Architect and CEO of **RB Consulting**. I help companies bring their infrastructure under control by treating it as code - cloud, security, pipelines, the works.
+I'm RB, Cloud Architect and CEO of RB Consulting. I help companies bring their infrastructure under control by treating it as code - cloud, security, pipelines, the works.
 
-- 🏗️ **IaC**: Terraform, OpenTofu
-- ☁️ **AWS**: multi-account architectures, FinOps
-- ⚙️ **Platform Engineering**: Kubernetes, GitOps, internal developer platforms
-- 🤖 **AI tooling**: using LLMs to ship faster and cut toil
-- 🔐 **Security**: policy enforcement, compliance automation, zero-trust
-- 🧑‍💼 **Leadership**: project management, team building, client advisory
+- 🏗️ IaC: Terraform, OpenTofu
+- ☁️ AWS: multi-account architectures, FinOps
+- ⚙️ Platform Engineering: Kubernetes, GitOps, internal developer platforms
+- 🤖 AI tooling: using LLMs to ship faster and cut toil
+- 🔐 Security: policy enforcement, compliance automation, zero-trust
+- 🧑‍💼 Leadership: project management, team building, client advisory
 
-> *"If you touched it twice, it should be code."*
+> "If you touched it twice, it should be code."
 
 ---
 
@@ -30,7 +30,7 @@ I'm **RB**, Cloud Architect and CEO of **RB Consulting**. I help companies bring
 
 <div align="center">
 
-**Cloud & Infrastructure**
+Cloud & Infrastructure
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
@@ -38,19 +38,19 @@ I'm **RB**, Cloud Architect and CEO of **RB Consulting**. I help companies bring
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-**CI/CD & GitOps**
+CI/CD & GitOps
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
-**Languages & Scripting**
+Languages & Scripting
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-**Security & Compliance**
+Security & Compliance
 
 ![OPA](https://img.shields.io/badge/OPA-7D3C98?style=for-the-badge&logo=openpolicyagent&logoColor=white)
 ![Vault](https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
