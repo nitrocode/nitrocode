@@ -15,8 +15,8 @@
 
 I'm **RB**, Cloud Architect and CEO of **RB Consulting**. I help companies bring their infrastructure under control by treating it as code - cloud, security, pipelines, the works.
 
-- 🏗️ **IaC**: Terraform, OpenTofu, CDK, Pulumi
-- ☁️ **AWS**: multi-account architectures, Landing Zones, FinOps
+- 🏗️ **IaC**: Terraform, OpenTofu
+- ☁️ **AWS**: multi-account architectures, FinOps
 - ⚙️ **Platform Engineering**: Kubernetes, GitOps, internal developer platforms
 - 🤖 **AI tooling**: using LLMs to ship faster and cut toil
 - 🔐 **Security**: policy enforcement, compliance automation, zero-trust
