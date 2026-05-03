@@ -87,8 +87,8 @@ If you're thinking about how to actually operationalize AI in your engineering o
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nitrocode&show_icons=true&theme=cobalt&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitrocode&layout=compact&theme=cobalt&hide_border=true" height="165" />
+<img src="https://github-readme-stats.shion.dev/api?username=nitrocode&show_icons=true&theme=cobalt&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=nitrocode&layout=compact&theme=cobalt&hide_border=true" height="165" />
 
 </div>
 

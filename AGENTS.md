@@ -64,7 +64,7 @@ A weekly GitHub Actions workflow (`.github/workflows/link-check.yml`) uses [lych
 Dynamic badge widgets are excluded from checks because they return SVG rather than standard HTTP responses:
 - `https://komarev.com`
 - `https://streak-stats.demolab.com`
-- `https://github-readme-stats.vercel.app`
+- `https://github-readme-stats.shion.dev`
 - `https://readme-typing-svg.demolab.com`
 
 If adding a new link or image, make sure it resolves to a stable URL. Avoid short-lived demo URLs or localhost references.
