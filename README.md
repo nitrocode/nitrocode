@@ -59,8 +59,8 @@ Security & Compliance
 AI & Agents
 
 ![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude Skills](https://img.shields.io/badge/Claude_Skills-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 </div>
 
@@ -73,6 +73,7 @@ I've gone deep on making AI a core part of how engineering teams operate — not
 **What that looks like in practice:**
 
 - **Claude Code & agentic workflows** — using Claude Code for autonomous coding tasks, code review, and infrastructure generation end-to-end
+- **Claude Skills** — building custom Claude Skills that plug domain-specific knowledge and tooling directly into developer workflows
 - **Internal prompt libraries** — building versioned, reusable prompt libraries that encode your team's standards and patterns so every engineer benefits from collective knowledge
 - **Autonomous AI agents** — designing multi-agent pipelines that handle repetitive ops tasks, security audits, and compliance checks without human-in-the-loop for every step
 - **AI-native team transformation** — helping engineering orgs move from "AI as a tool" to "AI as a team member": workflows, guardrails, evaluation loops, and culture
