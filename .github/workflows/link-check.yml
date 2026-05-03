@@ -1,0 +1,33 @@
+name: Link Check
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  schedule:
+    # Run weekly on Monday at 08:00 UTC to catch links that rot over time
+    - cron: "0 8 * * 1"
+  workflow_dispatch:
+
+jobs:
+  link-check:
+    name: Check links and images
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4.3.1
+
+      - name: Check links and images
+        uses: lycheeverse/lychee-action@8646ba30535128ac92d33dfc9133794bfdd9b411 # v2.8.0
+        with:
+          args: >
+            --verbose
+            --no-progress
+            --exclude-loopback
+            --exclude "https://komarev.com"
+            --exclude "https://streak-stats.demolab.com"
+            --exclude "https://github-readme-stats.vercel.app"
+            --exclude "https://readme-typing-svg.demolab.com"
+            README.md
+          fail: true

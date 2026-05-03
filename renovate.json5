@@ -1,0 +1,9 @@
+{
+  $schema: "https://docs.renovatebot.com/renovate-schema.json",
+  extends: [
+    "config:best-practices",
+  ],
+  // Pin GitHub Actions to full commit SHAs for supply-chain security.
+  // Renovate will keep the pinned SHAs and version comments up to date.
+  pinDigests: true,
+}
