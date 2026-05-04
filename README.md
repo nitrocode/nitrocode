@@ -61,16 +61,18 @@ Languages & Scripting
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![CakePHP](https://img.shields.io/badge/CakePHP-D33C43?style=for-the-badge&logo=cakephp&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 Security & Compliance
 
 ![OPA](https://img.shields.io/badge/OPA-7D3C98?style=for-the-badge&logo=openpolicyagent&logoColor=white)
-![Vault](https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
+![Wiz](https://img.shields.io/badge/Wiz-00B4E3?style=for-the-badge&logo=wiz&logoColor=white)
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white)
 ![checkov](https://img.shields.io/badge/checkov-5D4F85?style=for-the-badge&logo=bridgecrew&logoColor=white)
-![Semgrep](https://img.shields.io/badge/Semgrep-20B2AA?style=for-the-badge&logo=semgrep&logoColor=white)
 ![Gitleaks](https://img.shields.io/badge/Gitleaks-FF0000?style=for-the-badge&logo=git&logoColor=white)
 
 Observability & SRE
