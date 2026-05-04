@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+RB+%F0%9F%91%8B;Cloud+Architect+%26+CEO;I+turn+infra+into+code;AWS+%7C+Terraform+%7C+Kubernetes+%F0%9F%9A%80;Building+AI-Native+Engineering+Teams+%F0%9F%A4%96;Autonomous+Agents+%7C+Claude+Code+%7C+LLM+Workflows" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+RB+%F0%9F%91%8B;QA+%E2%86%92+Dev+%E2%86%92+SRE+%E2%86%92+Security+%E2%86%92+DevSecOps;I+define+problems.+Then+I+solve+them.;AWS+%7C+Terraform+%7C+Kubernetes+%F0%9F%9A%80;Building+AI-Native+Engineering+Teams+%F0%9F%A4%96;Autonomous+Agents+%7C+Claude+Code+%7C+LLM+Workflows" alt="Typing SVG" /></a>
 
 [![Profile views](https://komarev.com/ghpvc/?username=nitrocode&style=flat-square&color=00D9FF)](https://github.com/nitrocode)
 [![Resume](https://img.shields.io/badge/Resume-View-blue?style=flat-square&logo=read-the-docs)](https://0xfeed.gitlab.io/resume.html)
@@ -13,16 +13,28 @@
 
 ## 🚀 About Me
 
-I'm RB, Cloud Architect and CEO of RB Consulting. I help companies bring their infrastructure under control by treating it as code — and increasingly, with AI as a force multiplier at every layer of the stack.
+I started in QA — which means I've always thought about what breaks. I moved through automation, full-stack dev, SRE, and security because each layer exposed a new class of problems. Now as a DevSecOps practitioner and Cloud Architect, I work at the intersection of all of them — and I use AI to accelerate every step.
 
+- 🧪 QA & Testing: automation, shift-left testing, quality gates
 - 🏗️ IaC: Terraform, OpenTofu
 - ☁️ AWS: multi-account architectures, FinOps
 - ⚙️ Platform Engineering: Kubernetes, GitOps, internal developer platforms
-- 🤖 AI-Native Engineering: autonomous AI agents, Claude Code, internal prompt libraries, LLM-powered workflows
+- 🔭 SRE: observability, reliability engineering, incident management
 - 🔐 Security: policy enforcement, compliance automation, zero-trust
+- 🤖 AI-Native Engineering: autonomous AI agents, Claude Code, internal prompt libraries, LLM-powered workflows
 - 🧑‍💼 Leadership: project management, team building, client advisory
 
 > "If you touched it twice, it should be code."
+
+---
+
+## ⚙️ How I Work
+
+- **Define the problem first** — most failures come from solving the wrong thing
+- **LLM as collaborator, not autocomplete** — I steer it, validate the output, then make the minimal right change
+- **Don't reinvent the wheel** — find the right tool, library, or pattern and make it fit
+- **Security at every layer** — design, code, infra, ops; not bolted on at the end
+- **Ship the minimal right change** — less surface area, less risk, easier to reason about
 
 ---
 
@@ -55,6 +67,21 @@ Security & Compliance
 ![OPA](https://img.shields.io/badge/OPA-7D3C98?style=for-the-badge&logo=openpolicyagent&logoColor=white)
 ![Vault](https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white)
+![Semgrep](https://img.shields.io/badge/Semgrep-20B2AA?style=for-the-badge&logo=semgrep&logoColor=white)
+![Gitleaks](https://img.shields.io/badge/Gitleaks-FF0000?style=for-the-badge&logo=git&logoColor=white)
+
+Observability & SRE
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![PagerDuty](https://img.shields.io/badge/PagerDuty-06AC38?style=for-the-badge&logo=pagerduty&logoColor=white)
+
+Testing & QA
+
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
 AI & Agents
 
