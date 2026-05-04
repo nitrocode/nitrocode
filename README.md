@@ -55,10 +55,12 @@ CI/CD & GitOps
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Atlantis](https://img.shields.io/badge/Atlantis-5C4EE5?style=for-the-badge&logo=terraform&logoColor=white)
 
 Languages & Scripting
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
@@ -67,6 +69,7 @@ Security & Compliance
 ![OPA](https://img.shields.io/badge/OPA-7D3C98?style=for-the-badge&logo=openpolicyagent&logoColor=white)
 ![Vault](https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white)
+![checkov](https://img.shields.io/badge/checkov-5D4F85?style=for-the-badge&logo=bridgecrew&logoColor=white)
 ![Semgrep](https://img.shields.io/badge/Semgrep-20B2AA?style=for-the-badge&logo=semgrep&logoColor=white)
 ![Gitleaks](https://img.shields.io/badge/Gitleaks-FF0000?style=for-the-badge&logo=git&logoColor=white)
 
@@ -75,6 +78,7 @@ Observability & SRE
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![OpsGenie](https://img.shields.io/badge/OpsGenie-172B4D?style=for-the-badge&logo=atlassian&logoColor=white)
 ![PagerDuty](https://img.shields.io/badge/PagerDuty-06AC38?style=for-the-badge&logo=pagerduty&logoColor=white)
 
 Testing & QA
