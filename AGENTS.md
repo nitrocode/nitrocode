@@ -12,7 +12,7 @@ This is a GitHub profile README repository. The `README.md` is displayed publicl
 
 ## Owner
 
-**RB** — Cloud Architect, CEO of RB Consulting.
+RB, Cloud Architect, CEO of RB Consulting.
 
 Focus areas:
 - AWS multi-account architectures, FinOps
@@ -28,16 +28,17 @@ Focus areas:
 
 Write in a direct, technical, first-person voice. Match the tone already established in `README.md`.
 
-**Avoid these AI writing artifacts:**
+Avoid these AI writing artifacts:
 - Filler openers: "Certainly!", "Of course!", "Great question!", "Happy to help!"
 - Redundant summaries that restate what was just said
 - Hedge phrases: "I'll help you with that", "Let me assist you"
-- Excessive em-dashes and parenthetical asides
+- Em-dashes
+- Bold text for emphasis
 - Vague superlatives: "cutting-edge", "robust", "seamless", "game-changer"
 - Passive constructions where active voice reads better
 - Bullet lists that pad short ideas into three-word fragments
 
-**Preferred patterns:**
+Preferred patterns:
 - Short sentences. Active voice.
 - Technical precision over marketing language
 - Concrete examples over abstract claims
@@ -48,11 +49,11 @@ Write in a direct, technical, first-person voice. Match the tone already establi
 ## Content Guidelines
 
 - Keep the profile focused on Cloud, IaC, Platform Engineering, and AI-native engineering
-- Highlight Claude Code and Claude Skills — these are current, in-use tools, not just listed buzzwords
+- Highlight Claude Code and Claude Skills: these are current, in-use tools, not just listed buzzwords
 - Do not add LangChain, CrewAI, or similar orchestration frameworks unless RB explicitly requests them
 - Do not add technologies or skills that are not already present in the README unless explicitly asked
 - Badges use `style=for-the-badge` and pull colors from each tool's official brand palette
-- The "If you touched it twice, it should be code." quote is intentional — do not modify or remove it
+- The "If you touched it twice, it should be code." quote is intentional. Do not modify or remove it.
 - The profile links (Resume, Blog, Contact) point to: `https://0xfeed.gitlab.io/resume.html`, `https://0xfeed.gitlab.io`, and `https://bit.ly/2K7e76D` respectively
 
 ---
@@ -74,14 +75,14 @@ If adding a new link or image, make sure it resolves to a stable URL. Avoid shor
 ## File Structure
 
 ```
-README.md                  — public GitHub profile page
-AGENTS.md                  — this file; AI agent context and conventions
-CLAUDE.md                  -> AGENTS.md (symlink)
-renovate.json5             — Renovate config; inherits best-practices, pins actions to SHAs
+README.md                  # public GitHub profile page
+AGENTS.md                  # this file; AI agent context and conventions
+CLAUDE.md                  # symlink to AGENTS.md
+renovate.json5             # Renovate config; inherits best-practices, pins actions to SHAs
 LICENSE
 .github/
   workflows/
-    link-check.yml         — weekly dead-link/image checker
+    link-check.yml         # weekly dead-link/image checker
 ```
 
 ---
@@ -100,7 +101,7 @@ gh api repos/<owner>/<repo>/git/ref/tags/<tag> --jq '.object.sha'
 
 
 
-- Do not rewrite large portions of `README.md` speculatively — make targeted, minimal changes
+- Do not rewrite large portions of `README.md` speculatively. Make targeted, minimal changes.
 - Do not add sections, stats widgets, or third-party integrations without being asked
 - Do not remove the GitHub Stats or Streak sections
 - Do not commit secrets, tokens, or personal contact details not already in the file
